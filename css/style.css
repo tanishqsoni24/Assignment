@@ -1,0 +1,29 @@
+.navbar-brand img{
+    width: 8rem;
+
+}
+
+.navbar{
+    background: #1E1E1E;
+}
+
+.nav-child{
+    justify-content: center !important;
+}
+
+.navbar-collapse{
+    flex-grow: 0;
+}
+
+.nav-link{
+    color: white;
+    margin: 0 0.5rem;
+}
+
+.nav-link:hover, .nav-link:focus{
+    color: white !important;
+}
+
+.navbar-nav .nav-link.active{
+    color: #AF6CD8;
+}
